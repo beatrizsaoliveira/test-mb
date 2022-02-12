@@ -3,7 +3,7 @@
 Test project for a big car company, where the scope of the project is to make a workflow on their website to find the values of cars, for a certain model, between £15000 and £60000.
 
 ### 1. Clone the repository
-```git clone https://github.com/beatrizsaoliveira/test-mb.git```
+```$ git clone https://github.com/beatrizsaoliveira/test-mb.git```
 
 ### 2. Install the dependencies
 ```$ npm install```
