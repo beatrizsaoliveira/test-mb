@@ -2,5 +2,6 @@
     "viewportWidth": 1920,
     "viewportHeight": 1080,
     "includeShadowDom": true,
-    "screenshotsFolder": "screenshots"
+    "screenshotsFolder": "screenshots",
+    "integrationFolder": "cypress/tests"
 }
